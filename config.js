@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://g.payungsakpk.xyz',
+  url: 'https://www.pao.in.th',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Pao Payungsak',
+  subtitle: 'About PAO.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
@@ -25,12 +25,12 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Pao Payungsak Klinchampa',
+    photo: '/about-pao.jpg',
+    bio: 'DevOps / Cloud Architect.',
     contacts: {
-      email: '',
-      facebook: '#',
+      email: 'pao@paocloud.co.th',
+      facebook: 'fb.com/paov6',
       telegram: '#',
       twitter: '#',
       github: '#',
